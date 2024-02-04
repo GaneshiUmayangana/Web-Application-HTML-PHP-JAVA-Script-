@@ -1,0 +1,30 @@
+.buttons{
+	position:absolute;
+	top:20px;
+	left:300px;
+	}
+
+.button{
+	outline:0;
+}
+
+tr td.sd {background:rgba(10,50,86,0.8); color:white;  width:250; height:30;  border-top-style: none;border-bottom-style: none; padding: 4px; }
+tr td.sd2 {width:400;height:30; background:rgba(137,187,233,0.5); border-top-style: none;border-bottom-style: none; }
+
+
+ td.sd4 input {background:rgba(72,183,317,0.8);
+				border:none;
+				cursor: pointer;
+				padding:8px 32px;
+				color: white ;
+				font-weight: 700;
+			}
+
+
+.contents{
+	position:absolute;
+	top:130px;
+	left:310px;
+	background:rgba(99,99,99,0.7);
+}
+

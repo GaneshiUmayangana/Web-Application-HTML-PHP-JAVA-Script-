@@ -1,0 +1,30 @@
+.buttons{
+	position:absolute;
+	top:20px;
+	left:300px;
+	}
+
+.button{
+	outline:0;
+}
+
+.contents{
+	font-size: 24px;
+	font-family: cursive;
+	width: 1300px;
+	height: 600px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	position:absolute;
+	top:115px;
+	left:115px;
+	background:rgba(0,0,0,0.5);
+	color: white;
+}
+p{text-align: justify;
+	padding-left: 50px;
+	padding-right: 50px;
+ }
+ a{
+ 	color:#00ffff;
+ }

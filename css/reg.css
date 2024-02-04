@@ -1,0 +1,41 @@
+
+
+tr td.sd {background:rgba(77, 51, 0,0.8); color:white;  width:250;  border-top-style: none;border-bottom-style: none;  }
+tr td.sd2 {width:400;border-top-style: none;border-bottom-style: none; }
+tr td.sd3 {background:rgba(0,0,0,0.5); width:250; }
+
+tr td.sd4 input,button{background:rgba(72,183,317,0.8);
+				border:none;
+				cursor: pointer;
+				padding:8px 32px;
+				color: white ;
+				font-weight: 700;
+			}
+
+
+.contents{
+	position:absolute;
+	top:120px;
+	left:400px;
+	background:rgba(99,99,99,0.5);
+}
+
+.contents2{
+	position:absolute;
+	top:120px;
+	left:400px;
+	background:rgba(99,99,99,0.5);
+}
+
+tr td.sd2 input,textarea {
+	width:400px;
+	background:rgba(0,0,0,0.5);
+	color: #ffffff;
+	}
+
+tr td.sd2 input,chechbox {
+	width:400px;
+	background:rgba(0,0,0,0.5);
+	color: #ffffff;
+	}
+

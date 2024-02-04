@@ -1,0 +1,20 @@
+
+.button{
+	outline:0;
+}
+
+.contents{
+	position:absolute;
+	top:150px;
+	left:170px;
+	overflow: scroll;
+	width: 1200px;
+	height:500px;
+	color: black;
+	background:rgba(255,255,255,0.7);
+}
+.return{
+	position:absolute;
+	top:670px;
+	left:650px;
+}

@@ -1,0 +1,31 @@
+
+.button{
+	outline:0;
+}
+
+.contents{
+	position:absolute;
+	top:220px;
+	left:70px;
+	overflow: scroll;
+	width: 1400px;
+	height:500px;
+	color: black;
+	background:rgba(255,255,255,0);
+}
+
+.links{
+	padding: 10px;
+}
+
+.links a{
+
+	width: 20px;
+	background:rgba(72,183,317,0.8);
+	color:white;
+	cursor: pointer;
+	text-decoration:none;
+	padding:8px 32px;
+	font-weight: 700;
+	}
+

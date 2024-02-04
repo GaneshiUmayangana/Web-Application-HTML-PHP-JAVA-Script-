@@ -1,0 +1,42 @@
+
+.contents{
+	position:absolute;
+	top:100px;
+	left:150px;
+
+}
+ table {
+	        text-align: center;
+ 		
+	        font-size:30px;
+	    	font-family: cursive;
+	    	color: #ffffff;
+	    }
+
+	.text{
+		color: #000000;
+		font-size: 40px;
+		font-family: cursive;
+	}
+
+input {
+	        height : 45px;
+			padding:10px 15px;
+			font-size :16px;
+			font-family: cursive;
+			width: 200px;
+}
+.container{
+	width: 450px;
+	height:400px;
+	margin: auto;
+	padding: 40px 30px;
+	border-radius: 10px;
+	background-color: #5f4c30;
+	box-shadow: 0 0 10px 0 #000;
+	text-align: center;
+
+.imgcontainer{
+	text-align: center;
+	width: 50px;
+	
